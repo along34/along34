@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a GIT student at ASU, focusing on UX and minoring in human science engineering.
+<h2>*I am currently a GIT student at ASU, focusing on UX and minoring in human science engineering.*</h2>
 
 ✨ I love design, color, and fun aesthetics that truly represent the person, company, or brand that I am working with.<div>
 
