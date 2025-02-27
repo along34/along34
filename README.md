@@ -27,7 +27,5 @@ Here are some ideas to get you started:
 
 ⚡ In my free time, I am beginning to dabble in writing a fictional trilogy.<div>
 
-<img src="https://myreadme.vercel.app/api/embed/pressjump?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-```
 <img src="https://myreadme.vercel.app/api/embed/along34?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
