@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <a href="https://www.linkedin.com/in/amber-long-246688346/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!--
 **along34/along34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <b><i>*I am currently a GIT student at ASU, focusing on UX and minoring in human science engineering.*</i></b>
+
 
 ✨ I love design, color, and fun aesthetics that truly represent the person, company, or brand that I am working with.<div>
 
